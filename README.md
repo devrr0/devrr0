@@ -4,7 +4,7 @@
 - Estudiate de 5° año de Ingeniería Computacional en la Universidad de Chile </br>
 - Enfoque en desarrollo de aplicaciones web </br>
 - Enfoque en implementación de interpretes y compiladores </br>
-- Contacto: *rociofarias002@gmail.com* </br>
+- Contacto: *rocio.farias.o@ug.uchile.cl* </br>
 
 
 ## 💻 Tech Stack:
